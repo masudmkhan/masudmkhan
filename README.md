@@ -15,6 +15,6 @@ I am a tech enthusiast with knowledge about programming languages like Python, J
 * **📮masudmkhan2000@gmail.com**
 
 **Find Me On:**
-* **[Twitter](www.linkedin.com/in/masud-m-khan)**
+* **[LinkedIn](www.linkedin.com/in/masud-m-khan)**
 
 
