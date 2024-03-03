@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, I'm Masud! 👋
 
-<!--
-**masudmkhan/masudmkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a tech enthusiast with knowledge about programming languages like Python, Javascript and also has hands on experience of designing different frontend designs. I am passionate in learning Data Science, Machine Learning, AI. 
 
-Here are some ideas to get you started:
+## 🛠 Skills
+* **Language**
+    - Python
+    - Javascript
+    
+* **FrontEnd Skills**
+    - HTML
+    - CSS
+    - Bootstrap
+## 📫 Contact Me
+* **📮masudmkhan2000@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Find Me On:**
+* **[Twitter](www.linkedin.com/in/masud-m-khan)**
+
+
