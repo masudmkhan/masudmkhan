@@ -11,6 +11,11 @@ I am a tech enthusiast with knowledge about programming languages like Python, J
     - HTML
     - CSS
     - Bootstrap
+
+* **Database Skills**
+    - SQL
+    - MongoDB
+  
 ## 📫 Contact Me
 * **📮masudmkhan2000@gmail.com**
 
